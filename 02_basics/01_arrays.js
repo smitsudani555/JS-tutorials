@@ -34,9 +34,6 @@ console.log(mynarr)
 
 console.log("b ",myArr)
 
-const myn2 = myArr.splice(1,3)
+const myn2 = myArr.splice(2,5)
 console.log(myn2);
 console.log(myArr);
-
-
-
